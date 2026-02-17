@@ -1,0 +1,401 @@
+concept_term,original_term,snomed_id,status
+Acute myocardial infarction,Acute myocardial infarction,57054005,found
+Atrial fibrillation,Atrial fibrillation,49436004,found
+"Hypertensive disorder, systemic arterial","Hypertensive disorder, systemic arterial",38341003,found
+Atherosclerosis,Atherosclerosis,38716007,found
+Embolus,Embolus,55584005,found
+Ventricular tachycardia,Ventricular tachycardia,25569003,found
+Apnea,Apnea,1023001,found
+Cyanosis,Cyanosis,3415004,found
+Bronchitis,Bronchitis,32398004,found
+Hyperglycemia,Hyperglycemia,80394007,found
+Blood in urine,Blood in urine,34436003,found
+Oliguria,Oliguria,83128009,found
+Polyuria,Polyuria,28442001,found
+Necrosis,Necrosis,6574001,found
+Ischemia,Ischemia,52674009,found
+Sepsis,Sepsis,91302008,found
+Malignant,Malignant,21594007,found
+Benign,Benign,30807003,found
+Abscess,Abscess,128477000,found
+Edema,Edema,267038008,found
+Intubation,Intubation,52765003,found
+Biopsy,Biopsy,86273004,found
+Venipuncture,Venipuncture,22778000,found
+Laparotomy,Laparotomy,86481000,found
+Opening of chest,Opening of chest,177765008,found
+Cholecystectomy,Cholecystectomy,38102005,found
+Cardiopulmonary resuscitation,Cardiopulmonary resuscitation,89666000,found
+Triage,Triage,225390008,found
+Proximal,Proximal,40415009,found
+Distal,Distal,46053002,found
+Chronic,Chronic,90734009,found
+Determination of prognosis,Determination of prognosis,20481000,found
+Anaphylaxis,Anaphylaxis,39579001,found
+Structure of ischiogluteal bursa of right hip,Structure of ischiogluteal bursa of right hip,722754002,found
+Does not cut own nails,Does not cut own nails,284873008,found
+Laceration of right brachial artery,Laceration of right brachial artery,11816061000119107,found
+Date sample received in laboratory,Date sample received in laboratory,281271004,found
+Autosomal recessive severe congenital neutropenia due to jagunal homolog 1 deficiency,Autosomal recessive severe congenital neutropenia due to jagunal homolog 1 deficiency,783199003,found
+Product containing only ezetimibe and rosuvastatin,Product containing only ezetimibe and rosuvastatin,1297131003,partial_match
+Alpha>1< anti-trypsin isotype MZ,Alpha>1< anti-trypsin isotype MZ,102790009,found
+2-dehydro-3-deoxy-L-pentonate aldolase,2-dehydro-3-deoxy-L-pentonate aldolase,51364000,found
+Thiourea,Thiourea,47826006,found
+Protriptyline,Protriptyline,372760009,found
+Use of sling suspension,Use of sling suspension,39317007,found
+Insulin receptor defect,Insulin receptor defect,10680005,found
+Akinesis of basal anterior segment of left cardiac ventricle,Akinesis of basal anterior segment of left cardiac ventricle,728705000,partial_match
+Bioterrorist attack,Bioterrorist attack,409495001,found
+Rickettsia australis,Rickettsia australis,53447008,found
+Computed tomography 3 dimensional reconstruction,Computed tomography 3 dimensional reconstruction,22400007,found
+Open reduction of fracture of tarsal bone without internal fixation,Open reduction of fracture of tarsal bone without internal fixation,699166007,found
+Identification of antibody to red blood cell antigens from Colton system (International Society of Blood Transfusion 015),Identification of antibody to red blood cell antigens from Colton system (International Society of Blood Transfusion 015),104030003,found
+Spirometra houghtonii,Spirometra houghtonii,112459002,found
+Difficulty preparing feed,Difficulty preparing feed,286499006,found
+Public school,Public school,224858000,found
+Assistive electrical shaver adaptor,Assistive electrical shaver adaptor,465026001,found
+Bathing of skin of free upper limb,Bathing of skin of free upper limb,1234843005,found
+Primary hyperparathyroidism,Primary hyperparathyroidism,36348003,found
+Ultrasonography of soft tissue of wrist region,Ultrasonography of soft tissue of wrist region,438491001,partial_match
+Standing tolerance,Standing tolerance,311463005,found
+Product containing precisely alverine citrate 120 milligram/1 each conventional release oral capsule,Product containing precisely alverine citrate 120 milligram/1 each conventional release oral capsule,317145007,partial_match
+Structure of temporomandibular articulation vein,Structure of temporomandibular articulation vein,152612004,found
+Closed comminuted fracture of proximal phalanx of finger,Closed comminuted fracture of proximal phalanx of finger,1255277009,found
+Choroidal retinal neovascularization,Choroidal retinal neovascularization,75971007,found
+Microunit/milliliter,Microunit/milliliter,258952008,found
+Unable to use a non-speech system for communication,Unable to use a non-speech system for communication,288594008,found
+Chronic infective pericarditis,Chronic infective pericarditis,233886008,found
+Accidental poisoning caused by salicylates,Accidental poisoning caused by salicylates,216471009,found
+Product containing only nicotinic acid,Product containing only nicotinic acid,768628008,partial_match
+Dimethyl-ether propane,Dimethyl-ether propane,396030004,found
+Nipple sharing technique,Nipple sharing technique,261209007,found
+Accidental clorazepate poisoning,Accidental clorazepate poisoning,1145076003,found
+Fetal disorder due to persistent occipito-posterior malposition during labor,Fetal disorder due to persistent occipito-posterior malposition during labor,1263632004,found
+Carnitine acylcarnitine translocase deficiency,Carnitine acylcarnitine translocase deficiency,238003000,found
+Revision of gastrojejunal anastomosis with reconstruction with partial gastrectomy,Revision of gastrojejunal anastomosis with reconstruction with partial gastrectomy,55718003,found
+Abnormal radial pulse,Abnormal radial pulse,39435002,found
+Accident due to heat in drying room,Accident due to heat in drying room,217596003,found
+Disease caused by Trichinelloidea,Disease caused by Trichinelloidea,105700009,found
+Cervical anterior longitudinal ligament sprain,Cervical anterior longitudinal ligament sprain,209559008,found
+Entire costal groove of eighth rib,Entire costal groove of eighth rib,21696003,found
+Myxopapillary ependymoma of brain,Myxopapillary ependymoma of brain,1197306009,found
+Repositioning of cardioverter/defibrillator leads,Repositioning of cardioverter/defibrillator leads,46634008,found
+Buttiauxella brennerae,Buttiauxella brennerae,416844002,found
+Position of testicle,Position of testicle,249237009,found
+Accidental lomustine poisoning,Accidental lomustine poisoning,290628005,found
+Hemangioma of retina of bilateral eyes,Hemangioma of retina of bilateral eyes,15710001000119105,found
+Mandelate racemase,Mandelate racemase,73858007,found
+Structure of rhomboideus thoracis muscle,Structure of rhomboideus thoracis muscle,60160007,found
+Unable to move from lying to sitting,Unable to move from lying to sitting,282931003,found
+Contact lens inserter/remover,Contact lens inserter/remover,705256002,found
+Cytosine deaminase,Cytosine deaminase,85784002,found
+Atrolysin F,Atrolysin F,130723008,found
+Entire pupillary margin of iris,Entire pupillary margin of iris,362514008,found
+Compression hosiery class II below knee stocking flatbed knit made to measure,Compression hosiery class II below knee stocking flatbed knit made to measure,401633000,found
+Entire small subcutaneous vein,Entire small subcutaneous vein,10617000,found
+Operation on pharynx,Operation on pharynx,23136006,found
+Fluoroscopic angiography of dialysis fistula using contrast with insertion of stent graft,Fluoroscopic angiography of dialysis fistula using contrast with insertion of stent graft,434435000,found
+Product containing only methotrexate,Product containing only methotrexate,776732000,partial_match
+Wart clinic,Wart clinic,275692008,found
+Hemoglobin Dagestan,Hemoglobin Dagestan,28538001,found
+Substance,Substance,T167,found
+Family Chlorobiaceae,Family Chlorobiaceae,414199005,found
+Structure of pedicle of axis,Structure of pedicle of axis,313345004,found
+Bone structure of L4,Bone structure of L4,11994002,found
+Lasègue's arm sign,Lasègue's arm sign,111957005,found
+Neuroendocrine tumor of middle ear,Neuroendocrine tumor of middle ear,717918002,found
+Extension Namespace {1000194},Extension Namespace {1000194},717031005,found
+Fracture of third rib,Fracture of third rib,33737001,partial_match
+Overriding tricuspid valve,Overriding tricuspid valve,253378006,found
+Cerebellar laceration with open intracranial wound,Cerebellar laceration with open intracranial wound,30858001,found
+Sacral spinal cord injury without bone injury,Sacral spinal cord injury without bone injury,4260009,found
+Dehydrated hereditary stomatocytosis,Dehydrated hereditary stomatocytosis,715526002,found
+Product containing precisely tinzaparin sodium 20000 unit/1 milliliter conventional release solution for injection,Product containing precisely tinzaparin sodium 20000 unit/1 milliliter conventional release solution for injection,782120000,partial_match
+History of mood disorder,History of mood disorder,429124005,found
+Dislocation of prosthetic joint of elbow,Dislocation of prosthetic joint of elbow,1303208006,found
+Product containing only brompheniramine and guaifenesin and hydrocodone in oral dose form,Product containing only brompheniramine and guaifenesin and hydrocodone in oral dose form,778552006,partial_match
+Unable to wash laundry,Unable to wash laundry,286049003,found
+Entire corticothalamic fibers of posterior limb of internal capsule,Entire corticothalamic fibers of posterior limb of internal capsule,727132000,found
+Product containing precisely lidocaine hydrochloride 1 milligram/1 milliliter conventional release solution for injection,Product containing precisely lidocaine hydrochloride 1 milligram/1 milliliter conventional release solution for injection,785178004,partial_match
+Congenital absence of uvula,Congenital absence of uvula,25148007,found
+Streptococcus pyogenes type emm35,Streptococcus pyogenes type emm35,442825004,found
+Fracture of mandible involving dental socket,Fracture of mandible involving dental socket,263175001,found
+Foreign body in skin of finger with infection,Foreign body in skin of finger with infection,879798000,found
+Product containing precisely naloxone hydrochloride 400 microgram/1 milliliter conventional release solution for injection,Product containing precisely naloxone hydrochloride 400 microgram/1 milliliter conventional release solution for injection,782010007,partial_match
+Excisional biopsy of lacrimal sac,Excisional biopsy of lacrimal sac,201583003,found
+Catatonic posturing,Catatonic posturing,36734001,found
+Structure of palmaris brevis muscle,Structure of palmaris brevis muscle,18513005,found
+Butteroil,Butteroil,229850009,found
+Entire ventral posterolateral nucleus of thalamus,Entire ventral posterolateral nucleus of thalamus,369171001,found
+Anomalous pulmonary venous drainage to right atrium,Anomalous pulmonary venous drainage to right atrium,37639005,found
+Caries of cervical margin of tooth,Caries of cervical margin of tooth,716364007,found
+Bursitis of shoulder,Bursitis of shoulder,239961006,found
+Laboratory oven,Laboratory oven,705221001,found
+Assessment using physical function intensive care unit test,Assessment using physical function intensive care unit test,458181000124100,found
+Oral dyskinesia,Oral dyskinesia,229694001,found
+Family Ranidae,Family Ranidae,107237003,found
+Acute postthoracotomy pain syndrome,Acute postthoracotomy pain syndrome,444227004,found
+Trapezius flap,Trapezius flap,180797001,found
+Fetal movements palpated by healthcare professional,Fetal movements palpated by healthcare professional,223366009,partial_match
+Product containing only sodium thiosulfate in parenteral dose form,Product containing only sodium thiosulfate in parenteral dose form,1202036003,partial_match
+Zamia,Zamia,66502000,found
+Provision of removable artificial eye,Provision of removable artificial eye,313124001,found
+Hypokinesis of myocardium of anterolateral region of left ventricle,Hypokinesis of myocardium of anterolateral region of left ventricle,190762001,partial_match
+CV20,CV20,273117001,found
+Primary malignant neoplasm of intrathoracic organs,Primary malignant neoplasm of intrathoracic organs,93841009,found
+Salmonella IIIb 38:(k):z54,Salmonella IIIb 38:(k):z54,404375005,found
+Purpura simplex,Purpura simplex,277791008,found
+Arsine poisoning,Arsine poisoning,64189001,found
+Continuous flow apneic ventilation,Continuous flow apneic ventilation,1260411001,found
+Extension Namespace {1000164},Extension Namespace {1000164},697893004,found
+Ear and auditory finding,Ear and auditory finding,118236001,found
+Antibody to myelin associated glycoprotein,Antibody to myelin associated glycoprotein,117210005,found
+Genus Cercocebus,Genus Cercocebus,389143004,found
+Urge incontinence due to prolapse of female genital organ,Urge incontinence due to prolapse of female genital organ,762264009,found
+Streptococcus pyogenes type emm111,Streptococcus pyogenes type emm111,443059008,found
+Partial glossectomy with radical dissection of left half of neck,Partial glossectomy with radical dissection of left half of neck,1119432004,found
+Paenibacillus doosanensis,Paenibacillus doosanensis,734244006,found
+Diapterus auratus,Diapterus auratus,53573000,found
+Ribonucleic acid of Parainfluenza virus 4,Ribonucleic acid of Parainfluenza virus 4,707938006,found
+Cryptocotyle concava,Cryptocotyle concava,89930003,found
+Calicivirus gastroenteritis,Calicivirus gastroenteritis,283877002,found
+Acute sensory polyneuropathy,Acute sensory polyneuropathy,1259063005,found
+Sabouraud dextrose agar,Sabouraud dextrose agar,464521000124106,found
+Urrets-Zavalia syndrome of eye due to and following ocular surgery,Urrets-Zavalia syndrome of eye due to and following ocular surgery,1296619006,partial_match
+Product containing only flortaucipir (18-F) in parenteral dose form,Product containing only flortaucipir (18-F) in parenteral dose form,879824004,partial_match
+Structure of skin of left knee,Structure of skin of left knee,726002000,found
+Grafting of auricle of ear,Grafting of auricle of ear,23235002,found
+Closed fracture of fifth metatarsal bone of right foot,Closed fracture of fifth metatarsal bone of right foot,10930121000119109,found
+Ultrasonic wave,Ultrasonic wave,51797001,found
+Accessory mobilization of the cervical spine,Accessory mobilization of the cervical spine,229410002,found
+Scilla nonscripta,Scilla nonscripta,61818004,found
+Product containing precisely mepacrine hydrochloride 100 milligram/1 each conventional release oral tablet,Product containing precisely mepacrine hydrochloride 100 milligram/1 each conventional release oral tablet,765727007,partial_match
+"Antibiotic sensitivity, fungus","Antibiotic sensitivity, fungus",359819009,found
+"Alcohol, methyl measurement","Alcohol, methyl measurement",57582005,found
+Structure of bursa of thumb,Structure of bursa of thumb,769938005,found
+"History and physical examination, sports participation","History and physical examination, sports participation",103736005,found
+Haemophilus felis,Haemophilus felis,432176001,found
+Cholylglycine measurement,Cholylglycine measurement,13046005,found
+Radiation half-value thickness,Radiation half-value thickness,228782005,found
+Entire embryo at stage 15,Entire embryo at stage 15,784038003,found
+Product containing only mecobalamin,Product containing only mecobalamin,776745001,partial_match
+Genus Lophodytes,Genus Lophodytes,396816008,found
+Mycoplasma hyopneumoniae,Mycoplasma hyopneumoniae,81326007,found
+Fetal chromosomal abnormality,Fetal chromosomal abnormality,472825005,partial_match
+History of cancer metastatic to bone,History of cancer metastatic to bone,1099291000119102,found
+"Orthopedic fixation plate, non-bioabsorbable, non-sterile","Orthopedic fixation plate, non-bioabsorbable, non-sterile",713841008,found
+Neoplasm of isthmus of uterus,Neoplasm of isthmus of uterus,126911008,found
+Urethrotome,Urethrotome,464369005,found
+Death by immolation,Death by immolation,5062002,found
+Skin of part of back,Skin of part of back,281722005,found
+Croton oil,Croton oil,54588003,found
+Associated_finding_filler,Associated_finding_filler,363666001,found
+Lyssavirus aravan,Lyssavirus aravan,450620008,found
+Main spoken language Esperanto,Main spoken language Esperanto,698896005,found
+Unable to prepare food hygienically,Unable to prepare food hygienically,286533007,found
+Proximal radioulnar joint structure,Proximal radioulnar joint structure,20903007,found
+Early onset cerebellar ataxia,Early onset cerebellar ataxia,230227009,found
+Cresylglycidyl ether,Cresylglycidyl ether,256090005,found
+Etheostoma zoniferum,Etheostoma zoniferum,90778000,found
+Plasma thawing unit,Plasma thawing unit,463951000,found
+Fracture of coccyx,Fracture of coccyx,125871005,found
+3 o'clock position on mammogram,3 o'clock position on mammogram,129774003,found
+Old posterior cruciate ligament disruption,Old posterior cruciate ligament disruption,202111003,found
+Anxious avoidant attachment,Anxious avoidant attachment,304871006,found
+Inflammation of left iliohypogastric nerve,Inflammation of left iliohypogastric nerve,292271000119101,found
+Re-excision of breast for clearance of tumor margins,Re-excision of breast for clearance of tumor margins,395165008,found
+Diamond dental laboratory bur,Diamond dental laboratory bur,468560000,found
+Family Fuselloviridae,Family Fuselloviridae,424194001,found
+Occlusion of vein of corpus cavernosum of penis,Occlusion of vein of corpus cavernosum of penis,9284003,partial_match
+Autosomal dominant intermediate Charcot-Marie-Tooth disease type C,Autosomal dominant intermediate Charcot-Marie-Tooth disease type C,765746008,found
+Hemoglobin Volga,Hemoglobin Volga,75384008,found
+Punctate outer retinal toxoplasmosis,Punctate outer retinal toxoplasmosis,415218004,found
+Congenital talipes calcaneovalgus,Congenital talipes calcaneovalgus,205083002,found
+Recurrent acute streptococcal tonsillitis,Recurrent acute streptococcal tonsillitis,10629231000119109,found
+Jaeger type 10,Jaeger type 10,260249006,found
+Myofascial pain syndrome of lower back,Myofascial pain syndrome of lower back,279041008,found
+Spine dislocation due to birth trauma,Spine dislocation due to birth trauma,206221000,found
+Netta rufina,Netta rufina,63601007,found
+Congenital abnormality of systemic vein,Congenital abnormality of systemic vein,448065006,found
+Stachybotrys chartarum,Stachybotrys chartarum,418469000,found
+Fracture of phalanx of finger of left hand,Fracture of phalanx of finger of left hand,1303399008,found
+Astroscopus y-graecum,Astroscopus y-graecum,7578009,found
+Vaccine product containing only Clostridium tetani and Human poliovirus antigens,Vaccine product containing only Clostridium tetani and Human poliovirus antigens,871816007,partial_match
+Single photon emission computed tomography system,Single photon emission computed tomography system,717313001,found
+Measurement of Influenza A virus antibody and Influenza B virus antibody,Measurement of Influenza A virus antibody and Influenza B virus antibody,117817000,found
+Chronic radiation nephritis,Chronic radiation nephritis,236525007,found
+Giant retinal tear,Giant retinal tear,232004004,found
+Structure of lateral surface of upper arm,Structure of lateral surface of upper arm,34894009,found
+Family Echinorhynchidae,Family Echinorhynchidae,106753006,found
+Embolectomy with catheter of celiac artery by abdominal incision,Embolectomy with catheter of celiac artery by abdominal incision,15905001,found
+Entire zygomatic arch,Entire zygomatic arch,272682006,found
+Application of hot water bottle,Application of hot water bottle,37353002,found
+Tilmicosin,Tilmicosin,792797003,found
+Hypothalamic releasing factor,Hypothalamic releasing factor,734789006,found
+Perioral numbness,Perioral numbness,102601005,found
+"Electron microscopy study, transmission, examination and report","Electron microscopy study, transmission, examination and report",58145007,found
+Structure of hypothalamicohypophyseal tract,Structure of hypothalamicohypophyseal tract,88964007,found
+Incision and exploration of tunica vaginalis,Incision and exploration of tunica vaginalis,40032003,found
+Injury of nasopharynx,Injury of nasopharynx,285671001,found
+Grafting of fascia to tarsal cartilage,Grafting of fascia to tarsal cartilage,90871000,found
+Accidental ingestion of spurge olive berries,Accidental ingestion of spurge olive berries,242340008,found
+Stimulus response inventory,Stimulus response inventory,273838009,found
+Fall risk assessment declined,Fall risk assessment declined,720832001,found
+Vegetable suet,Vegetable suet,229858002,found
+Flexion deformity of joint of right ankle,Flexion deformity of joint of right ankle,15935301000119104,found
+"Delayed allogeneic transplantation, living donor","Delayed allogeneic transplantation, living donor",50053001,found
+Finding of knee joint color,Finding of knee joint color,366601002,found
+Entire sinus venosus of fetus,Entire sinus venosus of fetus,341180007,found
+Blood (white blood cell) screen for GM1 gangliosidosis,Blood (white blood cell) screen for GM1 gangliosidosis,391472005,found
+Cystic testicular dysplasia,Cystic testicular dysplasia,109560004,found
+No active range of shoulder circumduction,No active range of shoulder circumduction,298847009,found
+Product containing precisely promethazine hydrochloride 25 milligram/1 each conventional release oral tablet,Product containing precisely promethazine hydrochloride 25 milligram/1 each conventional release oral tablet,320776005,partial_match
+Spotted creeper,Spotted creeper,25921007,found
+Chilomastix intestinalis,Chilomastix intestinalis,86121009,found
+"Extraprostatic extension of tumor present, non-focal","Extraprostatic extension of tumor present, non-focal",420387003,found
+Arteriovenous graft rupture,Arteriovenous graft rupture,280975005,found
+Structure of superficial anterior cervical lymph node,Structure of superficial anterior cervical lymph node,168557005,found
+Myelodysplastic syndrome with excess blasts-1,Myelodysplastic syndrome with excess blasts-1,415283002,found
+Administration of substance via buccal route,Administration of substance via buccal route,431952007,found
+Product containing only bendroflumethiazide and potassium chloride,Product containing only bendroflumethiazide and potassium chloride,774767003,partial_match
+Transmission-based precautions,Transmission-based precautions,409583003,found
+Tooth disorder,Tooth disorder,234947003,found
+Physical,Physical,19388002,found
+Dislocation of ear ossicles,Dislocation of ear ossicles,87040007,found
+Fracture dislocation of symphysis pubis,Fracture dislocation of symphysis pubis,263067005,found
+Tache noire of sclera of left eye,Tache noire of sclera of left eye,470751000124107,found
+"Volatile inhalant dependence, episodic","Volatile inhalant dependence, episodic",86401000119104,partial_match
+Decreased N-3 fatty acid diet,Decreased N-3 fatty acid diet,1142129004,found
+Carbapenemase-producing Lelliottia amnigena,Carbapenemase-producing Lelliottia amnigena,1112101000112106,found
+Polychromatophilic erythroblast,Polychromatophilic erythroblast,16779009,found
+Fuller's earth dust,Fuller's earth dust,426368004,found
+Stress fracture of sacrum,Stress fracture of sacrum,441881007,found
+Poor self-esteem,Poor self-esteem,162220005,found
+Bathrocephaly,Bathrocephaly,450808003,found
+Snuff user,Snuff user,228494002,found
+Generalized onset motor epileptic seizure,Generalized onset motor epileptic seizure,1208966001,found
+Allergy treatment changed,Allergy treatment changed,170841002,found
+Erosion of pacemaker pocket due to and following implantation of cardiac pacemaker,Erosion of pacemaker pocket due to and following implantation of cardiac pacemaker,762249009,found
+Head lifting exercise,Head lifting exercise,229151005,found
+Entire corpus penis,Entire corpus penis,362271005,found
+Oligopus diagrammus,Oligopus diagrammus,44573000,found
+Deficiency of ribose-5-phosphate isomerase,Deficiency of ribose-5-phosphate isomerase,124667004,found
+Progestogen overdose,Progestogen overdose,296878004,found
+Cartilage graft - prominent ear,Cartilage graft - prominent ear,287409005,found
+Borrelia theileri,Borrelia theileri,89068003,found
+Mood disorder with mixed depressive and manic symptoms caused by volatile inhalant,Mood disorder with mixed depressive and manic symptoms caused by volatile inhalant,762340006,found
+Degloving injury buttock,Degloving injury buttock,210422006,found
+Attachment of bone anchored hearing prosthesis,Attachment of bone anchored hearing prosthesis,426733001,found
+Air traffic controller,Air traffic controller,10975003,found
+Entire intervertebral symphysis between T2 and T3,Entire intervertebral symphysis between T2 and T3,244520003,found
+Protostrongylus brevispiculum,Protostrongylus brevispiculum,86729004,found
+Vasomotor rhinitis,Vasomotor rhinitis,8229003,found
+Able to open and close mouth,Able to open and close mouth,285454007,found
+Pseudoxanthomonas helianthi,Pseudoxanthomonas helianthi,738498001,found
+Repair of ventral hernia using graft,Repair of ventral hernia using graft,737067005,found
+Assessment using Short Form of the Informant Questionnaire on Cognitive Decline in the Elderly,Assessment using Short Form of the Informant Questionnaire on Cognitive Decline in the Elderly,459681000124104,found
+Acute inflammation,Acute inflammation,4532008,found
+Autosomal recessive hereditary spastic paraplegia,Autosomal recessive hereditary spastic paraplegia,1187279003,found
+Octomitus,Octomitus,39618008,found
+Toxoplasma tubulointerstitial nephropathy,Toxoplasma tubulointerstitial nephropathy,1092831000119109,found
+Notropis harperi,Notropis harperi,8575005,found
+History of toxoplasmosis,History of toxoplasmosis,143591000119101,found
+Blood group antigen Sk^a^,Blood group antigen Sk^a^,89041003,found
+Wedge excision of skin of nail fold,Wedge excision of skin of nail fold,65578005,found
+Finding of difference in location compared to previous radiologic examination,Finding of difference in location compared to previous radiologic examination,442726008,found
+Christo Inventory for Substance-misuse Services total score,Christo Inventory for Substance-misuse Services total score,761872001,found
+Aspidites melanocephalus,Aspidites melanocephalus,36903008,found
+General medical self-referral,General medical self-referral,183688007,found
+Artery of extremity transposition,Artery of extremity transposition,119816000,found
+Occlusion of left central retinal artery,Occlusion of left central retinal artery,341801000119101,found
+Nutrient absorption inhibitor,Nutrient absorption inhibitor,705506006,found
+Laceration of thigh without foreign body,Laceration of thigh without foreign body,735836006,found
+Eimeria magna,Eimeria magna,80007001,found
+Enterocolic fistula,Enterocolic fistula,111356006,found
+Rehabilitation care plan,Rehabilitation care plan,736055001,found
+Blood group antigen Naz,Blood group antigen Naz,82239006,found
+Bilastine,Bilastine,697973006,found
+Appearance of oral mucosa,Appearance of oral mucosa,364117009,found
+Superior closed dislocation,Superior closed dislocation,85016000,found
+Khoshamian,Khoshamian,261876007,found
+Urine codeine measurement,Urine codeine measurement,312464001,found
+Computed tomography of thigh for radiotherapy planning,Computed tomography of thigh for radiotherapy planning,715248007,found
+Application of long leg cast,Application of long leg cast,63097004,found
+Acute duodenitis,Acute duodenitis,715834004,found
+"Nuclear medicine system table, powered","Nuclear medicine system table, powered",463942008,found
+Local tumor spread,Local tumor spread,255127006,found
+Family Kogiidae,Family Kogiidae,35359004,partial_match
+Able to transfer from wheelchair to chair,Able to transfer from wheelchair to chair,715086007,found
+Selectron therapy,Selectron therapy,395074007,found
+Structure of superficial part of superior levator palpebrae muscle,Structure of superficial part of superior levator palpebrae muscle,39219007,found
+Entire left wall of urinary bladder,Entire left wall of urinary bladder,54217004,found
+Urine specimen care assessment,Urine specimen care assessment,385841005,found
+Structure of intervertebral disc of sacral vertebra,Structure of intervertebral disc of sacral vertebra,110533007,found
+Amino acids peritoneal dialysis solution,Amino acids peritoneal dialysis solution,326370009,found
+Family Caryophyllaceae,Family Caryophyllaceae,107546005,found
+Umbilical catheter submitted as specimen,Umbilical catheter submitted as specimen,472920001,found
+Product containing precisely desmopressin acetate 100 microgram/1 milliliter conventional release nasal solution,Product containing precisely desmopressin acetate 100 microgram/1 milliliter conventional release nasal solution,766417009,partial_match
+Syncytial cell,Syncytial cell,72263005,found
+Extension Namespace {1000085},Extension Namespace {1000085},440023001,found
+Congenital absence of frontal bone,Congenital absence of frontal bone,91885001,found
+Incision and exploration of rectum,Incision and exploration of rectum,48630009,found
+Needle catheter,Needle catheter,713943007,found
+Percutaneous transluminal embolization of femoral artery,Percutaneous transluminal embolization of femoral artery,175719009,found
+Stung by cone shell,Stung by cone shell,242599009,found
+Head artery injection,Head artery injection,119786004,found
+"True insight, function","True insight, function",51187000,found
+Disorder due to and following injury of muscle and tendon of upper limb,Disorder due to and following injury of muscle and tendon of upper limb,210960009,found
+Entire left foot,Entire left foot,239919000,found
+Recurrent erosion of cornea of left eye,Recurrent erosion of cornea of left eye,338351000119101,found
+Excision of salivary gland,Excision of salivary gland,71735005,found
+Adverse effect of prosthetic device,Adverse effect of prosthetic device,95869003,found
+Total excision of meningioma,Total excision of meningioma,446307000,found
+Cote d'Ivoire,Cote d'Ivoire,223561000,found
+Fluoroscopic venography of hepatic vein with contrast and insertion of stent graft,Fluoroscopic venography of hepatic vein with contrast and insertion of stent graft,431602001,found
+Amyloid deposition,Amyloid deposition,68790008,found
+Measurement of serum thyroid stimulating hormone,Measurement of serum thyroid stimulating hormone,313440008,found
+Excessive secretin secretion,Excessive secretin secretion,237582003,found
+Cataract lens fragments in vitreous of left eye due to and following cataract surgery,Cataract lens fragments in vitreous of left eye due to and following cataract surgery,340021000119108,found
+Toe joint crepitus,Toe joint crepitus,299634006,found
+Gynecological operating table,Gynecological operating table,706411000,found
+Product containing hydrolase inhibitor,Product containing hydrolase inhibitor,427395002,partial_match
+Edoxaban tosylate,Edoxaban tosylate,1162278009,found
+Deep dog bite,Deep dog bite,262571007,found
+Family Kinosternidae,Family Kinosternidae,107244007,found
+Substance with sodium/potassium adenosine triphosphatase enzyme inhibitor mechanism of action,Substance with sodium/potassium adenosine triphosphatase enzyme inhibitor mechanism of action,767007003,partial_match
+Delayed suture of tendon,Delayed suture of tendon,12492009,found
+Specimen source,Specimen source,703065002,found
+Microinvasive carcinoma,Microinvasive carcinoma,264550001,found
+Abdominal reflex delayed,Abdominal reflex delayed,299855006,found
+Product containing only phenazopyridine,Product containing only phenazopyridine,777154001,partial_match
+Incision and drainage of hematoma,Incision and drainage of hematoma,443385002,found
+Skin structure of infratemporal region,Skin structure of infratemporal region,40207008,found
+Soft tissue lesion of foot region,Soft tissue lesion of foot region,240025005,found
+Arthroscopic release of capsule of hip joint,Arthroscopic release of capsule of hip joint,449362005,found
+Traumatic joint hemarthrosis,Traumatic joint hemarthrosis,239775007,found
+Long QT syndrome caused by drug,Long QT syndrome caused by drug,715971003,found
+Neocoger mucronatus,Neocoger mucronatus,25496003,found
+Product containing bismuth subsalicylate and metronidazole and tetracycline,Product containing bismuth subsalicylate and metronidazole and tetracycline,409308009,partial_match
+Pulmonary artery pressure,Pulmonary artery pressure,250767002,found
+Arthroscopy of shoulder with complete synovectomy,Arthroscopy of shoulder with complete synovectomy,77341008,found
+beta-Aminoisobutyrate measurement,beta-Aminoisobutyrate measurement,104543006,found
+Injury of thymus gland,Injury of thymus gland,27158007,found
+Finding related to ability to balance,Finding related to ability to balance,366614001,found
+"Porphyrins, quantitation and fractionation, urine","Porphyrins, quantitation and fractionation, urine",104887006,found
+Trichostrongylus retortaeformis,Trichostrongylus retortaeformis,28100005,found
+Extrinsic motivation,Extrinsic motivation,112076007,found
+Duodenal candidosis,Duodenal candidosis,840506008,found
+Take impression for lower removable orthodontic appliance,Take impression for lower removable orthodontic appliance,234756004,found
+Primary basal cell carcinoma of skin of left foot,Primary basal cell carcinoma of skin of left foot,428487561000119102,found
+Rigid ankle-foot orthosis,Rigid ankle-foot orthosis,183160000,found
+"Closed fracture thumb proximal phalanx, head","Closed fracture thumb proximal phalanx, head",208438007,found
+Acute suppuration of maxillary sinus,Acute suppuration of maxillary sinus,23884004,found
+Dodecenoyl-coenzyme A delta-isomerase,Dodecenoyl-coenzyme A delta-isomerase,76907000,found
+Entire lymphatic vessel of orbit,Entire lymphatic vessel of orbit,1197036005,found
+Blood group antigen Wallin,Blood group antigen Wallin,71415008,found
+Corynebacterium species not Corynebacterium jeikeium,Corynebacterium species not Corynebacterium jeikeium,413930001,found
+Nocardioides terrae,Nocardioides terrae,25961000181103,found
+Lactobacillus rhamnosus GG,Lactobacillus rhamnosus GG,412234005,found
+Pain of breast,Pain of breast,53430007,found
+Structure of left cochlear,Structure of left cochlear,772064001,found
+Decreased active range of hip flexion,Decreased active range of hip flexion,299243005,found
