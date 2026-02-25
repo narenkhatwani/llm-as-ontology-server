@@ -1,0 +1,251 @@
+concept_term,prompt_set,relation,status,item
+Asthma,set1,sons,intersection,allergic asthma
+Asthma,set1,sons,intersection,occupational asthma
+Asthma,set1,sons,intersection,severe asthma
+Asthma,set1,sons,missed,acute asthma
+Asthma,set1,sons,missed,asthma in mother complicating childbirth
+Asthma,set1,sons,missed,asthma in pregnancy
+Asthma,set1,sons,missed,asthma with irreversible airway obstruction
+Asthma,set1,sons,missed,asthma without status asthmaticus
+Asthma,set1,sons,missed,asthma-chronic obstructive pulmonary disease overlap syndrome
+Asthma,set1,sons,missed,asthmatic bronchitis
+Asthma,set1,sons,missed,asthmatic pulmonary eosinophilia
+Asthma,set1,sons,missed,brittle asthma
+Asthma,set1,sons,missed,chemical-induced asthma
+Asthma,set1,sons,missed,childhood asthma
+Asthma,set1,sons,missed,cough variant asthma
+Asthma,set1,sons,missed,drug-induced asthma
+Asthma,set1,sons,missed,exercise-induced asthma
+Asthma,set1,sons,missed,intermittent asthma
+Asthma,set1,sons,missed,intrinsic asthma
+Asthma,set1,sons,missed,late onset asthma
+Asthma,set1,sons,missed,mild asthma
+Asthma,set1,sons,missed,mixed asthma
+Asthma,set1,sons,missed,moderate asthma
+Asthma,set1,sons,missed,occasional asthma
+Asthma,set1,sons,missed,persistent asthma
+Asthma,set1,sons,missed,seasonal asthma
+Asthma,set1,sons,missed,steroid dependent asthma
+Asthma,set1,sons,missed,uncomplicated asthma
+Asthma,set1,sons,missed,uncontrolled asthma
+Asthma,set1,sons,extra,adult-onset asthma
+Asthma,set1,sons,extra,aspirin-exacerbated respiratory disease
+Asthma,set1,sons,extra,childhood-onset asthma
+Asthma,set1,sons,extra,cough-variant asthma
+Asthma,set1,sons,extra,eosinophilic asthma
+Asthma,set1,sons,extra,exercise-induced bronchoconstriction
+Asthma,set1,sons,extra,non-allergic asthma
+Asthma,set1,grandparents,missed,disorder of body system
+Asthma,set1,grandparents,missed,respiratory finding
+Asthma,set1,grandparents,extra,chronic disease
+Asthma,set1,grandparents,extra,disease of respiratory system
+Asthma,set1,grandparents,extra,disease of the immune system
+Asthma,set1,grandparents,extra,hypersensitivity condition
+Asthma,set1,grandparents,extra,inflammatory disorder
+Type 2 diabetes mellitus,set1,sons,missed,brittle type 2 diabetes mellitus
+Type 2 diabetes mellitus,set1,sons,missed,insulin treated type 2 diabetes mellitus
+Type 2 diabetes mellitus,set1,sons,missed,ketosis-resistant diabetes mellitus
+Type 2 diabetes mellitus,set1,sons,missed,pre-existing type 2 diabetes mellitus
+Type 2 diabetes mellitus,set1,sons,missed,pregnancy and type 2 diabetes mellitus
+Type 2 diabetes mellitus,set1,sons,missed,type 2 diabetes mellitus in nonobese
+Type 2 diabetes mellitus,set1,sons,missed,type 2 diabetes mellitus in obese
+Type 2 diabetes mellitus,set1,sons,missed,type 2 diabetes mellitus with ulcer
+Type 2 diabetes mellitus,set1,sons,missed,type 2 diabetes mellitus without complication
+Type 2 diabetes mellitus,set1,sons,missed,type ii diabetes mellitus in remission
+Type 2 diabetes mellitus,set1,sons,missed,uncontrolled type 2 diabetes mellitus
+Type 2 diabetes mellitus,set1,sons,missed,well controlled type 2 diabetes mellitus
+Type 2 diabetes mellitus,set1,sons,extra,type 2 diabetes mellitus controlled by diet
+Type 2 diabetes mellitus,set1,sons,extra,type 2 diabetes mellitus controlled by oral hypoglycemic drugs
+Type 2 diabetes mellitus,set1,sons,extra,type 2 diabetes mellitus requiring insulin
+Type 2 diabetes mellitus,set1,sons,extra,type 2 diabetes mellitus with diabetic foot ulcer
+Type 2 diabetes mellitus,set1,sons,extra,type 2 diabetes mellitus with diabetic ketoacidosis
+Type 2 diabetes mellitus,set1,sons,extra,type 2 diabetes mellitus with diabetic nephropathy
+Type 2 diabetes mellitus,set1,sons,extra,type 2 diabetes mellitus with diabetic neuropathy
+Type 2 diabetes mellitus,set1,sons,extra,type 2 diabetes mellitus with diabetic retinopathy
+Type 2 diabetes mellitus,set1,sons,extra,type 2 diabetes mellitus with hyperglycemia
+Type 2 diabetes mellitus,set1,sons,extra,type 2 diabetes mellitus with hyperosmolar hyperglycemic state
+Type 2 diabetes mellitus,set1,sons,extra,type 2 diabetes mellitus with hypoglycemia
+Type 2 diabetes mellitus,set1,sons,extra,type 2 diabetes mellitus with peripheral circulatory complications
+Type 2 diabetes mellitus,set1,grandparents,missed,disorder of endocrine system
+Type 2 diabetes mellitus,set1,grandparents,missed,disorder of glucose metabolism
+Type 2 diabetes mellitus,set1,grandparents,extra,disorder of carbohydrate metabolism
+Type 2 diabetes mellitus,set1,grandparents,extra,disorder of glucose regulation
+Type 2 diabetes mellitus,set1,grandparents,extra,disorder of pancreas
+Type 2 diabetes mellitus,set1,grandparents,extra,endocrine system disease
+Type 2 diabetes mellitus,set1,grandparents,extra,metabolic disease
+Hypertensive disorder,set1,sons,intersection,essential hypertension
+Hypertensive disorder,set1,sons,intersection,hypertensive crisis
+Hypertensive disorder,set1,sons,intersection,secondary hypertension
+Hypertensive disorder,set1,sons,missed,benign hypertension
+Hypertensive disorder,set1,sons,missed,brachydactyly and arterial hypertension syndrome
+Hypertensive disorder,set1,sons,missed,coronary sinus hypertension as complication of procedure
+Hypertensive disorder,set1,sons,missed,diastolic hypertension
+Hypertensive disorder,set1,sons,missed,eclampsia added to pre-existing hypertension
+Hypertensive disorder,set1,sons,missed,exertional hypertension
+Hypertensive disorder,set1,sons,missed,"hypertension complicating pregnancy, childbirth and the puerperium"
+Hypertensive disorder,set1,sons,missed,hypertension concurrent and due to end stage renal disease on dialysis
+Hypertensive disorder,set1,sons,missed,hypertension due to congenital adrenal hyperplasia
+Hypertensive disorder,set1,sons,missed,hypertension in chronic kidney disease due to type 1 diabetes mellitus
+Hypertensive disorder,set1,sons,missed,hypertension in chronic kidney disease due to type 2 diabetes mellitus
+Hypertensive disorder,set1,sons,missed,hypertension in the obstetric context
+Hypertensive disorder,set1,sons,missed,hypertension with albuminuria
+Hypertensive disorder,set1,sons,missed,intermittent hypertension
+Hypertensive disorder,set1,sons,missed,maternal hypertension
+Hypertensive disorder,set1,sons,missed,multiple drug intolerant hypertension
+Hypertensive disorder,set1,sons,missed,neonatal hypertension
+Hypertensive disorder,set1,sons,missed,paroxysmal hypertension
+Hypertensive disorder,set1,sons,missed,perioperative hypertension
+Hypertensive disorder,set1,sons,missed,postoperative hypertension
+Hypertensive disorder,set1,sons,missed,rebound hypertension
+Hypertensive disorder,set1,sons,missed,resistant hypertensive disorder
+Hypertensive disorder,set1,sons,missed,supine hypertension
+Hypertensive disorder,set1,sons,missed,systolic hypertension
+Hypertensive disorder,set1,sons,extra,eclampsia
+Hypertensive disorder,set1,sons,extra,gestational hypertension
+Hypertensive disorder,set1,sons,extra,hypertensive heart disease
+Hypertensive disorder,set1,sons,extra,hypertensive kidney disease
+Hypertensive disorder,set1,sons,extra,pre-eclampsia
+Hypertensive disorder,set1,sons,extra,resistant hypertension
+Hypertensive disorder,set1,sons,extra,white coat hypertension
+Hypertensive disorder,set1,grandparents,missed,cardiovascular finding
+Hypertensive disorder,set1,grandparents,missed,disorder of body system
+Hypertensive disorder,set1,grandparents,extra,cardiovascular disease
+Hypertensive disorder,set1,grandparents,extra,disease
+Hypertensive disorder,set1,grandparents,extra,disorder by body system
+Hypertensive disorder,set1,grandparents,extra,disorder of circulatory system
+Hypertensive disorder,set1,grandparents,extra,disorder of physiologic function
+Asthma,set2,sons,intersection,allergic asthma
+Asthma,set2,sons,intersection,brittle asthma
+Asthma,set2,sons,intersection,childhood asthma
+Asthma,set2,sons,intersection,cough variant asthma
+Asthma,set2,sons,intersection,intermittent asthma
+Asthma,set2,sons,intersection,occupational asthma
+Asthma,set2,sons,intersection,severe asthma
+Asthma,set2,sons,missed,acute asthma
+Asthma,set2,sons,missed,asthma in mother complicating childbirth
+Asthma,set2,sons,missed,asthma in pregnancy
+Asthma,set2,sons,missed,asthma with irreversible airway obstruction
+Asthma,set2,sons,missed,asthma without status asthmaticus
+Asthma,set2,sons,missed,asthma-chronic obstructive pulmonary disease overlap syndrome
+Asthma,set2,sons,missed,asthmatic bronchitis
+Asthma,set2,sons,missed,asthmatic pulmonary eosinophilia
+Asthma,set2,sons,missed,chemical-induced asthma
+Asthma,set2,sons,missed,drug-induced asthma
+Asthma,set2,sons,missed,exercise-induced asthma
+Asthma,set2,sons,missed,intrinsic asthma
+Asthma,set2,sons,missed,late onset asthma
+Asthma,set2,sons,missed,mild asthma
+Asthma,set2,sons,missed,mixed asthma
+Asthma,set2,sons,missed,moderate asthma
+Asthma,set2,sons,missed,occasional asthma
+Asthma,set2,sons,missed,persistent asthma
+Asthma,set2,sons,missed,seasonal asthma
+Asthma,set2,sons,missed,steroid dependent asthma
+Asthma,set2,sons,missed,uncomplicated asthma
+Asthma,set2,sons,missed,uncontrolled asthma
+Asthma,set2,sons,extra,adult-onset asthma
+Asthma,set2,sons,extra,aspirin-exacerbated respiratory disease
+Asthma,set2,sons,extra,asthma with acute exacerbation
+Asthma,set2,sons,extra,eosinophilic asthma
+Asthma,set2,sons,extra,exercise-induced bronchoconstriction
+Asthma,set2,sons,extra,late-onset asthma
+Asthma,set2,sons,extra,mild persistent asthma
+Asthma,set2,sons,extra,moderate persistent asthma
+Asthma,set2,sons,extra,neutrophilic asthma
+Asthma,set2,sons,extra,nocturnal asthma
+Asthma,set2,sons,extra,non-allergic asthma
+Asthma,set2,sons,extra,paucigranulocytic asthma
+Asthma,set2,sons,extra,severe persistent asthma
+Asthma,set2,sons,extra,status asthmaticus
+Asthma,set2,sons,extra,steroid-resistant asthma
+Asthma,set2,grandparents,missed,disorder of body system
+Asthma,set2,grandparents,missed,respiratory finding
+Asthma,set2,grandparents,extra,allergic disease
+Asthma,set2,grandparents,extra,chronic lower respiratory disease
+Asthma,set2,grandparents,extra,disease of respiratory system
+Asthma,set2,grandparents,extra,disorder of immune system
+Asthma,set2,grandparents,extra,disorder of lower respiratory tract
+Asthma,set2,grandparents,extra,hypersensitivity condition
+Type 2 diabetes mellitus,set2,sons,missed,brittle type 2 diabetes mellitus
+Type 2 diabetes mellitus,set2,sons,missed,insulin treated type 2 diabetes mellitus
+Type 2 diabetes mellitus,set2,sons,missed,ketosis-resistant diabetes mellitus
+Type 2 diabetes mellitus,set2,sons,missed,pre-existing type 2 diabetes mellitus
+Type 2 diabetes mellitus,set2,sons,missed,pregnancy and type 2 diabetes mellitus
+Type 2 diabetes mellitus,set2,sons,missed,type 2 diabetes mellitus in nonobese
+Type 2 diabetes mellitus,set2,sons,missed,type 2 diabetes mellitus in obese
+Type 2 diabetes mellitus,set2,sons,missed,type 2 diabetes mellitus with ulcer
+Type 2 diabetes mellitus,set2,sons,missed,type 2 diabetes mellitus without complication
+Type 2 diabetes mellitus,set2,sons,missed,type ii diabetes mellitus in remission
+Type 2 diabetes mellitus,set2,sons,missed,uncontrolled type 2 diabetes mellitus
+Type 2 diabetes mellitus,set2,sons,missed,well controlled type 2 diabetes mellitus
+Type 2 diabetes mellitus,set2,sons,extra,poorly controlled type 2 diabetes mellitus
+Type 2 diabetes mellitus,set2,sons,extra,type 2 diabetes mellitus in remission
+Type 2 diabetes mellitus,set2,sons,extra,type 2 diabetes mellitus requiring insulin
+Type 2 diabetes mellitus,set2,sons,extra,type 2 diabetes mellitus treated by diet
+Type 2 diabetes mellitus,set2,sons,extra,type 2 diabetes mellitus treated with oral hypoglycemic drugs
+Type 2 diabetes mellitus,set2,sons,extra,type 2 diabetes mellitus with diabetic ketoacidosis
+Type 2 diabetes mellitus,set2,sons,extra,type 2 diabetes mellitus with diabetic nephropathy
+Type 2 diabetes mellitus,set2,sons,extra,type 2 diabetes mellitus with diabetic neuropathy
+Type 2 diabetes mellitus,set2,sons,extra,type 2 diabetes mellitus with diabetic retinopathy
+Type 2 diabetes mellitus,set2,sons,extra,type 2 diabetes mellitus with foot ulcer
+Type 2 diabetes mellitus,set2,sons,extra,type 2 diabetes mellitus with hyperglycemia
+Type 2 diabetes mellitus,set2,sons,extra,type 2 diabetes mellitus with hyperosmolar hyperglycemic state
+Type 2 diabetes mellitus,set2,sons,extra,type 2 diabetes mellitus with hypoglycemia
+Type 2 diabetes mellitus,set2,sons,extra,type 2 diabetes mellitus with peripheral vascular disease
+Type 2 diabetes mellitus,set2,sons,extra,type 2 diabetes mellitus without complications
+Type 2 diabetes mellitus,set2,grandparents,missed,disorder of endocrine system
+Type 2 diabetes mellitus,set2,grandparents,missed,disorder of glucose metabolism
+Type 2 diabetes mellitus,set2,grandparents,extra,disorder of carbohydrate metabolism
+Type 2 diabetes mellitus,set2,grandparents,extra,disorder of endocrine gland
+Type 2 diabetes mellitus,set2,grandparents,extra,disorder of pancreas
+Hypertensive disorder,set2,sons,intersection,essential hypertension
+Hypertensive disorder,set2,sons,intersection,hypertensive crisis
+Hypertensive disorder,set2,sons,intersection,secondary hypertension
+Hypertensive disorder,set2,sons,missed,benign hypertension
+Hypertensive disorder,set2,sons,missed,brachydactyly and arterial hypertension syndrome
+Hypertensive disorder,set2,sons,missed,coronary sinus hypertension as complication of procedure
+Hypertensive disorder,set2,sons,missed,diastolic hypertension
+Hypertensive disorder,set2,sons,missed,eclampsia added to pre-existing hypertension
+Hypertensive disorder,set2,sons,missed,exertional hypertension
+Hypertensive disorder,set2,sons,missed,"hypertension complicating pregnancy, childbirth and the puerperium"
+Hypertensive disorder,set2,sons,missed,hypertension concurrent and due to end stage renal disease on dialysis
+Hypertensive disorder,set2,sons,missed,hypertension due to congenital adrenal hyperplasia
+Hypertensive disorder,set2,sons,missed,hypertension in chronic kidney disease due to type 1 diabetes mellitus
+Hypertensive disorder,set2,sons,missed,hypertension in chronic kidney disease due to type 2 diabetes mellitus
+Hypertensive disorder,set2,sons,missed,hypertension in the obstetric context
+Hypertensive disorder,set2,sons,missed,hypertension with albuminuria
+Hypertensive disorder,set2,sons,missed,intermittent hypertension
+Hypertensive disorder,set2,sons,missed,maternal hypertension
+Hypertensive disorder,set2,sons,missed,multiple drug intolerant hypertension
+Hypertensive disorder,set2,sons,missed,neonatal hypertension
+Hypertensive disorder,set2,sons,missed,paroxysmal hypertension
+Hypertensive disorder,set2,sons,missed,perioperative hypertension
+Hypertensive disorder,set2,sons,missed,postoperative hypertension
+Hypertensive disorder,set2,sons,missed,rebound hypertension
+Hypertensive disorder,set2,sons,missed,resistant hypertensive disorder
+Hypertensive disorder,set2,sons,missed,supine hypertension
+Hypertensive disorder,set2,sons,missed,systolic hypertension
+Hypertensive disorder,set2,sons,extra,accelerated hypertension
+Hypertensive disorder,set2,sons,extra,eclampsia
+Hypertensive disorder,set2,sons,extra,gestational hypertension
+Hypertensive disorder,set2,sons,extra,hellp syndrome
+Hypertensive disorder,set2,sons,extra,hypertensive emergency
+Hypertensive disorder,set2,sons,extra,hypertensive heart disease
+Hypertensive disorder,set2,sons,extra,hypertensive kidney disease
+Hypertensive disorder,set2,sons,extra,hypertensive retinopathy
+Hypertensive disorder,set2,sons,extra,hypertensive urgency
+Hypertensive disorder,set2,sons,extra,isolated diastolic hypertension
+Hypertensive disorder,set2,sons,extra,isolated systolic hypertension
+Hypertensive disorder,set2,sons,extra,labile hypertension
+Hypertensive disorder,set2,sons,extra,malignant hypertension
+Hypertensive disorder,set2,sons,extra,masked hypertension
+Hypertensive disorder,set2,sons,extra,pre-eclampsia
+Hypertensive disorder,set2,sons,extra,pulmonary hypertension
+Hypertensive disorder,set2,sons,extra,renovascular hypertension
+Hypertensive disorder,set2,sons,extra,resistant hypertension
+Hypertensive disorder,set2,sons,extra,white coat hypertension
+Hypertensive disorder,set2,grandparents,intersection,disorder of body system
+Hypertensive disorder,set2,grandparents,missed,cardiovascular finding
+Hypertensive disorder,set2,grandparents,extra,clinical finding
+Hypertensive disorder,set2,grandparents,extra,disease
+Hypertensive disorder,set2,grandparents,extra,disorder of physiologic function
